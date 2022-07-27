@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IFGuyZ
-- 👀 I’m interested in Javascript and bot programming on discord
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in JavaScript and bot programming on discord
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Discord: IFGuyZ#8924, Twitter: @IFGuyZ1
 
 <!---
